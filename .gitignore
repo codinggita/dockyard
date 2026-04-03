@@ -31,5 +31,7 @@ prodsecrets/
 #others
 advanced_high_density_backdating_guide.md
 example.txt
+.gitignore
+gemini/ui/
+node_modules/
 
-gemini/uinode_modules/
